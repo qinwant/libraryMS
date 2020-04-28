@@ -1,0 +1,84 @@
+.nobdr-btns{
+    padding-top: 25px;
+}
+.addcart{
+    background: #fd532d;
+    padding: 0px 50px;
+    border-radius: 4px;
+    color: #FFFFFF;
+    margin-right: 10px;
+    font-size:16px;
+    line-height: 50px;
+}
+.yh{ background: #e60013;}
+.addcart img{vertical-align:middle;margin-bottom:3px;padding-right: 5px;}
+.gcIpt{
+    height: 70px;
+}
+.guT{
+    color: #848484;
+    font-size: 14px;
+    padding-right:18px;
+    line-height: 70px;
+}
+.gcIpt input{
+    border: #e3e3e3 solid 1px;
+    padding: 5px 8px;
+    color: #848484;
+    font-size: 16px;}
+.nobdr-btns{
+    padding-top: 25px;
+}
+.Hgt{ color: #424242; font-size:14px; padding-left: 10px;}
+.extInfo{
+    width:220px;
+    height: 520px;
+    float: right;
+}
+.tr-nobdr{
+    margin-top: 20px;
+    padding-bottom: 10px;
+}
+.tr-nobdr h3{
+    color: #171717;
+    font-size: 28px;
+    font-weight:400;
+}
+.txt{
+    width: 520px;
+    margin-top: 15px;
+    overflow: hidden;
+    background: #f8f8f8;
+}
+.nowprice{
+    display: block;
+    line-height: 100px;
+    color: #f73a3a;
+    font-size: 24px;
+    float: left;
+}
+.nowprice a{
+    font-size: 36px;
+    color: #f73a3a;
+}
+.nowprice a:hover{text-decoration: none;}
+.cumulative{
+    float: right;
+
+}
+.number{
+    float: left;
+    margin-top: 30px;
+    padding: 0px 10px;
+    border-right: #e7e7e7 solid 1px;
+    font-size: 14px;
+    text-align: center;
+    color: #bfbfbf;
+}
+.number em{
+    color: #5885c6;
+    font-style:normal
+}
+.tyu{
+    border: none;
+}
