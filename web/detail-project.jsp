@@ -70,7 +70,7 @@
                 <fieldset class="layui-elem-field layui-field-title" style="margin-top: 30px;">
                     <img src="images/project.png" align="left">
                     <a class="layui-btn" onclick="xadmin.open('项目详情','detail-markdown.jsp','500')" >查看功能详情</a>
-                    <a class="layui-btn" href="www.baidu.com" target="_blank" >查看项目源码</a>
+                    <a class="layui-btn" href="https://github.com/qinwant/libraryMS" target="_blank" >查看项目源码</a>
                 </fieldset>
             </div>
             <div>
