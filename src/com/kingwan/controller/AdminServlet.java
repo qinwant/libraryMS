@@ -69,7 +69,7 @@ public class AdminServlet extends HttpServlet {
                     //插入注册
                     int registered = adminService.registered(admin);
                     if(registered>0){
-                        req.getRequestDispatcher("login_reader.jsp").forward(req,resp);
+                        req.getRequestDispatcher("login_admin.jsp").forward(req,resp);
                     }else {
                         resp.getWriter().write("<script>alert('注册失败！'); window.location='login_admin.jsp' </script>");
                     }
