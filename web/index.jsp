@@ -23,7 +23,7 @@
   <script type="text/javascript" src="./js/xadmin.js"></script>
   <script>
       // 是否开启刷新记忆tab功能
-//      var is_remember = false;
+      var is_remember = false;
   </script>
 
 </head>
@@ -100,7 +100,7 @@
           <i class="iconfont nav_right">&#xe697;</i></a>
         <ul class="sub-menu">
           <li>
-            <a onclick="xadmin.add_tab('管理员列表','weclome.jsp')">
+            <a onclick="xadmin.add_tab('管理员列表','welcome.jsp')">
               <i class="iconfont">&#xe6a7;</i>
               <cite>管理员列表(暂未开发)</cite></a>
           </li>
